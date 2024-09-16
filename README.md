@@ -18,12 +18,10 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 
-RegisterNumber:  
+Developed by: V. POOJAA SREE
+RegisterNumber: 212223040147 
 */
-```
 
-```
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
